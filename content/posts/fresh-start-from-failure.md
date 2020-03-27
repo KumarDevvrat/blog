@@ -1,7 +1,7 @@
 ---
 title: "Fresh start from failure"
 date: 2020-03-26T22:46:07+05:30
-draft: true
+draft: false
 ---
 
 Back in the day and I can't recollect how far in the timeline, I dreamt of being the world's best programmer. Those were the days when 
@@ -29,7 +29,7 @@ I think my entrepreneurship experiences transformed me in many fundamental ways.
   ... and many more failures
 
 There have been points in time, wherein I strived for a appearing a "knowledgeable" programmer than being one. 
-At many points in time, I overestimated my intelligence and skill-set. I have gone back to my programming roots in he last one month of interview preperations. It has given my more clarity on what it will entail to be the best. At some point, I drifted away from core programming and eventually, I feared whether I will be good enough if I return back fully. I think there is no merit in fearing the fear itself. 
+At many points in time, I overestimated my intelligence and skill-set. I have gone back to my programming roots in the last one month of interview preperations. It has given me more clarity on what it will entail to be the best. At some point, I drifted away from core programming and eventually, I feared whether I will be good enough if I return back fully. I think there is no merit in fearing the fear itself. 
 
 So here I am. I have rebounded many times in the past. Resilience and persistence overcomes everything eventually. I wish to put a fresh and diligent attempt at being a good programmer. 
 

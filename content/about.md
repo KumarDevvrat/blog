@@ -1,7 +1,7 @@
 ---
 title: "About me"
 date: 2020-03-26T23:44:07+05:30
-draft: true
+draft: false
 ---
 
 I currently work as software architect in a software-first robotics company
