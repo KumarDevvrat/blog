@@ -102,6 +102,14 @@ Web servers | nginx, NodeJS
 
 Lastly, it's best to practice a lot, do a lot of Googling, deep-dive into topics with the help of books, blogs, intelligent StackOverflow questions and any other resources
 
+## 5. Takeaways from interviews
+
+it's been almost 6 years since I had given interview. Honestly, I had no idea about the landscape of interview at large scale companies. My biggest takeaways
+
+1. Interviews are heavily geared towards algorithms than many other apsects of succeeding in workplace
+2. System design is not something that 15-30 mins of talk will do justice to. Everyone has a different approach to system design
+3. Interview is very different place than your relaxed office. Someone is observing your code, there is a clock that is ticking, hence it's best to factor this in your preparation
+
 [0]: https://www.leetcode.com
 [1]: https://www.hackerrank.com
 [2]: https://fs.blog/2012/04/feynman-technique/
