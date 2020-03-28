@@ -6,7 +6,7 @@ draft: false
 
 Back in the day and I can't recollect how far in the timeline, I dreamt of being the world's best programmer. Those were the days when 
 I used to day dream about hacking DOS systems using some form of assembly language.
-I remember when I saw a book titled "Xtreme Programming", I imagined it to be some niche high-skilled form of programming -- the ones that only demigods knew of
+I remember when I saw a book titled ["Extreme Programming"](https://en.wikipedia.org/wiki/Extreme_programming), I imagined it to be some niche high-skilled form of programming -- the ones that only demigods knew of
 
 Fast forward, almost 12-15 odd years, I feel like I am starting fresh in the original journey that I had set out to conquer. In between these odd years, I worked
 at an analytics company, tried to do my own startup, ran a large food tech company albeit with many hiccups, then worked at software robotics company

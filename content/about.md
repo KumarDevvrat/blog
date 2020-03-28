@@ -24,7 +24,7 @@ Personally, I like photography, travelling and programming. I also take immense 
 
 - I declare with full acceptance that I am addicted to [Reddit](https://www.reddit.com)
 - Concepts are more important than technologies nitty-gritties but a healthy balance needs to be there
-- Performance is not an add-on, it's can be a feature itself
+- Performance is not an additional add-on, it can be a first-class feature itself (e.g. [Algolia](https://www.algolia.com/))
 - Mathematical reasoning is far more important than variational calculus in real life
 - Canon, nikon and others are charging far too much because the market is willing to pay for it
 
