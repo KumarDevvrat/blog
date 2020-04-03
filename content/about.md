@@ -8,7 +8,7 @@ I currently work as software architect in a software-first robotics company
 
 At the same time, it's futile to define myself with a title. I think it won't do justice to many aspects of life. Professionally, I have shades of programmer, 
 software engineer, management, leadership, hustler, software architect and couple of other things. I like to believe that I am good at solving problems from first-class principles. 
-There is long list of things I have to learn or be good at which means I am nowhere near the perfection I aim for
+There is long list of things I have to learn or be good at. It means I am nowhere near the perfection I aim for
 
 Problems with actual use-case excite me. I have keen interest in R&D with equal emphasis on prototyping and developing. I take interest in
 - Software architecture
