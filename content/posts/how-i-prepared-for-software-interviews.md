@@ -1,7 +1,7 @@
 ---
 title: "How I prepared for software interviews"
 date: 2020-03-28T12:20:27+05:30
-draft: true
+draft: false
 ---
 
 I allocated myself one month to prepare for software engineering positions (e.g. SSE-II at Uber). I was picky about companies as I am looking to solve massively large scale challenges in the next phase of my career progression 
